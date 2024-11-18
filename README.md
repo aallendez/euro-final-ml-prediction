@@ -8,10 +8,12 @@ Finally, the 2 models predicted the results.
 
 ### Final Prediction
 **Spain** 2 : 0 **England**
+
 Winner: **Spain**
 
 ### Real Result
 **Spain** 2 : 1 **England**
+
 Winner: **Spain**
 
 Close enough 😂
